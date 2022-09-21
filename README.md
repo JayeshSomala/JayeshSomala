@@ -8,7 +8,7 @@ Self driven and motivated Engineering student adept at developing software produ
 
 * 🌍  I'm based in banglore
 * ✉️  You can contact me at [jayeshsomala@gmail.com](mailto:jayeshsomala@gmail.com)
-* 🚀  I'm currently working on [BigBuddy](http://bigbuddy.in)
+* 🚀  I'm currently working on [BigBuddy](http://www.bigbuddy.in)
 * 🧠  I'm learning Web 3
 
 ### Skills
